@@ -1,0 +1,7 @@
+{
+  "name": "CineMate - Personalized Movie & Animation Discovery",
+  "description": "Discover movies and animated films tailored to your tastes with personalized recommendations, curated categories, and the MO-VIE AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
